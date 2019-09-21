@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>CreateEmpPara</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>8a1083d3-8e4f-4e66-b1d6-e9975d93b404</testSuiteGuid>
+   <testCaseLink>
+      <guid>90ab521d-8dc0-49e4-b39c-673c1870d09d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/DummyEmp/CreateEmp - allvariable</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>eebd2d3a-716b-4995-8af8-48bd0dfd924e</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/EmployeeData/EmpData</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>eebd2d3a-716b-4995-8af8-48bd0dfd924e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>salary</value>
+         <variableId>932a1994-317e-4829-860c-4329aebdb2c1</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>eebd2d3a-716b-4995-8af8-48bd0dfd924e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>age</value>
+         <variableId>5348acde-24eb-4648-b805-9a823f893e8a</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

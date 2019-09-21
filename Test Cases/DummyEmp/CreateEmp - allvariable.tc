@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CreateEmp - allvariable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>98aa638b-0320-4830-964a-c0e2449fb26b</testCaseGuid>
+   <variable>
+      <defaultValue>'250000'</defaultValue>
+      <description></description>
+      <id>932a1994-317e-4829-860c-4329aebdb2c1</id>
+      <masked>false</masked>
+      <name>salary</name>
+   </variable>
+   <variable>
+      <defaultValue>'475'</defaultValue>
+      <description></description>
+      <id>5348acde-24eb-4648-b805-9a823f893e8a</id>
+      <masked>false</masked>
+      <name>age</name>
+   </variable>
+</TestCaseEntity>
